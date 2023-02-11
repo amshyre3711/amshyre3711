@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/badge/Window-0078D6?style=flat-square&logo=window&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a><img src="https://img.shields.io/badge/Debian-FCC624?style=flat-square&logo=debian&logoColor=white"/></a> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GCP&logoColor=white"/></a> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=colab&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 ### Database & Query
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Python&logoColor=white"/><a> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/><a> 
-### Freamwork
-Flask, Node.js, Spring
+### Framework
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><a> 
 ### Webpage & Domain
 <a href = "https://github.com/amshyre3711/readme/"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=white"/></a></a>
 
