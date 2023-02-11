@@ -15,7 +15,7 @@ Flask, Node.js, Spring
 http://phoenixhome.tk (접속 안 됨. 홈페이지 리뉴얼 중) 
 
 
-(Update Now!)
+(Not Host, Update Now!)
 ### Coding Convention
   Bracket : K&R 
   
