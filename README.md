@@ -1,9 +1,9 @@
 # My Document
 ## Developer Kang Gun Woo
 ### Stack & Skill
-Python(ML&DL), C++, Java, Javascript, jsp, css, html
+Python(ML&DL), C++, Java, Javascript, jsp, css, html, Mysql
 ### System & Flatform
-Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform)
+Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform), Oracle Database System
 ### Freamwork
 Flask, Node.js, Spring
 ### Webpage & 
