@@ -3,7 +3,7 @@
 ### Stack & Skill
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 ### System & Flatform
-Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform
+<img src="https://img.shields.io/badge/Window-0078D6?style=flat-square&logo=Window&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>(Ubuntu & Devian) <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GCP&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 ### Database & Query
 Oracle Database System, Mysql
 ### Freamwork
