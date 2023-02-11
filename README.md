@@ -7,6 +7,6 @@ Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform)
 ### Webpage
 http://phoenixhome.tk(Update Now!)
 ### Coding Style
-Bracket : K&R
-Naming : Pascal&Snake
-In Style : Tab
+#### Bracket : K&R 
+#### Naming Case : Pascal&Snake 
+#### In Style : Tab (fuck Space) 
