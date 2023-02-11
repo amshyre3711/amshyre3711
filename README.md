@@ -4,6 +4,8 @@
 Python(ML&DL), C++, Java, Javascript, jsp, css, html
 ### System & Flatform
 Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform)
+### Freamwork
+Flask, Node.js
 ### Webpage
 http://phoenixhome.tk (Homepage renewal) 
 (Update Now!)
