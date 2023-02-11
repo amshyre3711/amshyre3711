@@ -7,7 +7,7 @@ Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform)
 ### Freamwork
 Flask, Node.js, Spring
 ### Webpage
-http://phoenixhome.tk (Homepage renewal) 
+http://phoenixhome.tk (홈페이지 리뉴얼 중) 
 (Update Now!)
 ### Coding Convention
   Bracket : K&R 
@@ -16,6 +16,6 @@ http://phoenixhome.tk (Homepage renewal)
   Naming Case : Pascal&Snake 
   
   
-  In Style : Tab (Fuck Space!!!) 
+  In Style : Tab
   
   
