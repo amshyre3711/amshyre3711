@@ -1,7 +1,7 @@
 # My Document
 ## Developer Kang Gun Woo
 ### Stack & Skill
-Python(ML&DL), C++, Java, Javascript, jsp, css
+Python(ML&DL), C++, Java, Javascript, jsp, css, html
 ### System & Flatform
 Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform)
 ### Webpage
@@ -14,6 +14,6 @@ http://phoenixhome.tk (Homepage renewal)
   Naming Case : Pascal&Snake 
   
   
-  In Style : Tab (fuck Space) 
+  In Style : Tab (Fuck Space!!!) 
   
   
