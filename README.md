@@ -3,9 +3,10 @@
 ### Stack & Skill
 Python(ML&DL), C++, Java, Javascript, jsp, css
 ### System & Flatform
-Linux, Ubuntu, Devian, Gcp
+Window, Linux(Ubuntu & Devian), GCP(Google Cloud Plaform)
 ### Webpage
 http://phoenixhome.tk(Update Now!)
 ### Coding Style
 Bracket : K&R
-Name : Pascal Case
+Naming : Pascal&Snake
+In Style : Tab
