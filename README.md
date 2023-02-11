@@ -1,6 +1,8 @@
 # My Document
 ## Developer Kang Gun Woo
 ### Stack & Skill
-Python, C++, Java
+Python(ML&DL), C++, Java, Javascript, jsp, css, 
 ### System & Flatform
-Linux, Ubuntu, Devian
+Linux, Ubuntu, Devian, Gcp
+### Webpage
+http://phoenixhome.tk
