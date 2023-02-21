@@ -18,7 +18,7 @@ https://www.acmicpc.net/user/kkw2401
 http://phoenixhome.tk (도메인만 유지 중. 접속 안 됨. 홈페이지 리뉴얼 중) 
 
 
-(Not Host, Update Now!)
+(Not Hosting, Update Now!)
 
 
 ### Coding Convention
