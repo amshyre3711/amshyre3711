@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><a> 
 ### Webpage & Domain
 <a href = "https://github.com/amshyre3711/readme/"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=white"/></a></a>
-<a href = "http://phoenixhome.tk"><img src="https://img.shields.io/badge/WEB-Blue?style=flat-square&logo=WEB&logoColor=white"/></a></a>
-<a href = "https://www.acmicpc.net/user/kkw2401"><img src="https://img.shields.io/badge/백준-Blue?style=flat-square&logo=백준&logoColor=white"/></a></a>
+<a href = "http://phoenixhome.tk"><img src="https://img.shields.io/badge/HostWeb-Blue?style=flat-square&logo=WEB&logoColor=white"/></a></a>
+<a href = "https://www.acmicpc.net/user/kkw2401"><img src="https://img.shields.io/badge/baekjoon-Blue?style=flat-square&logo=baekjoon&logoColor=white"/></a></a>
 
 ### Coding Convention
   Bracket : K&R 
