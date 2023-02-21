@@ -11,15 +11,7 @@
 ### Webpage & Domain
 <a href = "https://github.com/amshyre3711/readme/"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=white"/></a></a>
 <a href = "http://phoenixhome.tk"><img src="https://img.shields.io/badge/WEB-Blue?style=flat-square&logo=WEB&logoColor=white"/></a></a>
-
-https://www.acmicpc.net/user/kkw2401
-
-
-http://phoenixhome.tk (도메인만 유지 중. 접속 안 됨. 홈페이지 리뉴얼 중) 
-
-
-(Not Hosting, Update Now!)
-
+<a href = "https://www.acmicpc.net/user/kkw2401"><img src="https://img.shields.io/badge/백준-Blue?style=flat-square&logo=백준&logoColor=white"/></a></a>
 
 ### Coding Convention
   Bracket : K&R 
