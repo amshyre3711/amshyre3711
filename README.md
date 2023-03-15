@@ -15,7 +15,7 @@
 __Hosting Web Renewling__
   
 ### IDE&Tool
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/><a> <img src="https://img.shields.io/badge/Vscode-FF6F00?style=flat-square&logo=VSCode&logoColor=white"/><a> <img src="https://img.shields.io/badge/Jupyter-FF6F00?style=flat-square&logo=jupyter&logoColor=white"/><a> 
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/><a> <img src="https://img.shields.io/badge/Vscode-FF6F00?style=flat-square&logo=VSCode&logoColor=white"/><a> <img src="https://img.shields.io/badge/Jupyter-FF6F00?style=flat-square&logo=jupyter&logoColor=white"/><a> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/><a>
 ### Coding Convention
   Bracket : K&R 
   
